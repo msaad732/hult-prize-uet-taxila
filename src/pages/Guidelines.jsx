@@ -10,7 +10,7 @@ export default function Guidelines() {
             ),
             title: "Team Size",
             description: "2 – 4 members",
-            details: "Form a team with minimum 2 and maximum 4 members. All members must be currently enrolled students at UET Taxila.",
+            details: "Form a team with minimum 2 and maximum 4 members. All members must be currently enrolled students.",
             important: true
         },
         {
@@ -70,7 +70,7 @@ export default function Guidelines() {
             title: "Eligibility",
             items: [
                 "Must be currently enrolled students",
-                "Valid UET Taxila student ID required",
+                "Valid University Student ID required",
                 "One team per student only"
             ]
         }
@@ -204,3 +204,4 @@ export default function Guidelines() {
         </div>
     );
 }
+
