@@ -29,7 +29,7 @@ export default function Register() {
 
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                         <a
-                            href="https://www.hultprizeuett.app/register"
+                            href="#"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="btn-primary flex items-center gap-2 group w-full sm:w-auto justify-center"
@@ -62,5 +62,6 @@ export default function Register() {
         </div>
     );
 }
+
 
 
