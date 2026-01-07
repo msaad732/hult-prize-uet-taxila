@@ -191,7 +191,7 @@ export default function Contact() {
                                         <div>
                                             <p className="text-hult-magenta font-medium text-sm">What is the required team size?</p>
                                             <p className="text-gray-400 text-sm mt-1">
-                                                Teams must consist of 3 to 4 students from UET Taxila. Students from different departments can form a team.
+                                                Teams must consist of 2 to 4 students. Students from different departments can form a team.
                                             </p>
                                         </div>
                                         <div>
@@ -236,3 +236,4 @@ export default function Contact() {
         </div>
     );
 }
+
