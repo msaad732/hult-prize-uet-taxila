@@ -25,7 +25,7 @@ export default function Home() {
                     {/* Badge */}
                     <div className="inline-flex items-center px-4 py-2 rounded-full bg-hult-magenta/10 border border-hult-magenta/30 mb-8">
                         <span className="w-2 h-2 bg-hult-magenta rounded-full animate-pulse mr-2"></span>
-                        <span className="text-hult-magenta text-sm font-medium">Registrations Opening Soon</span>
+                        <span className="text-hult-magenta text-sm font-medium">Registrations are now open!</span>
                     </div>
 
                     {/* Main Heading */}
@@ -150,4 +150,5 @@ export default function Home() {
         </div>
     );
 }
+
 
