@@ -29,7 +29,7 @@ export default function Register() {
                     </h2>
 
                     <p className="text-gray-300 mb-8 leading-relaxed">
-                        All teams must register through the official Hult Prize website to be eligible for the competition.
+                        All teams must register by filling the form below to be eligible for the competition.
                         Make sure you have your team details and pitch deck ready before starting.
                     </p>
 
@@ -92,3 +92,4 @@ export default function Register() {
         </div>
     );
 }
+
