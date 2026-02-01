@@ -156,7 +156,7 @@ export default function Home() {
                             {/* Neon Consultants */}
                             <div className="group transition-all duration-300 hover:scale-110">
                                 <img 
-                                    src="/Neon-Consultants-Pvt-Ltd-Logo.png" 
+                                    src="/assets/Neon-Consultants-Pvt-Ltd-Logo.png" 
                                     alt="Neon Consultants" 
                                     className="h-16 md:h-24 w-auto object-contain filter grayscale brightness-150 group-hover:grayscale-0 group-hover:brightness-100 transition-all"
                                 />
@@ -165,7 +165,7 @@ export default function Home() {
                             {/* Raasta */}
                             <div className="group transition-all duration-300 hover:scale-110">
                                 <img 
-                                    src="/raasta.jpeg" 
+                                    src="/assets/raasta.jpeg" 
                                     alt="Raasta" 
                                     className="h-20 md:h-28 w-auto object-contain rounded-xl shadow-lg shadow-purple-500/20 group-hover:shadow-purple-500/40 transition-all"
                                 />
@@ -174,7 +174,7 @@ export default function Home() {
                             {/* RED HR */}
                             <div className="group transition-all duration-300 hover:scale-110">
                                 <img 
-                                    src="/RED-HR-LOGO.png" 
+                                    src="/assets/RED-HR-LOGO.png" 
                                     alt="HR Overseas Education Specialist" 
                                     className="h-14 md:h-20 w-auto object-contain group-hover:brightness-125 transition-all"
                                 />
