@@ -158,7 +158,7 @@ export default function Home() {
             <img 
                 src="/assets/Neon-Consultants-Pvt-Ltd-Logo.png" 
                 alt="Neon Consultants" 
-                className="h-16 md:h-24 w-auto object-contain filter grayscale brightness-150 group-hover:grayscale-0 group-hover:brightness-100 transition-all"
+                className="h-16 md:h-24 w-auto object-contain transition-all"
             />
         </div>
 
@@ -186,4 +186,5 @@ export default function Home() {
         </div>
     );
 }
+
 
