@@ -146,43 +146,44 @@ export default function Home() {
                         </Link>
                     </div>
 
-                    {/* NEW: Sponsors Section */}
-                    <div className="space-y-12">
-                        <h3 className="text-gray-500 uppercase tracking-[0.4em] text-sm font-bold">
-                            Official Event Sponsors
-                        </h3>
-                        
-                        <div className="flex flex-wrap justify-center items-center gap-10 md:gap-20">
-                            {/* Neon Consultants */}
-                            <div className="group transition-all duration-300 hover:scale-110">
-                                <img 
-                                    src="/assets/Neon-Consultants-Pvt-Ltd-Logo.png" 
-                                    alt="Neon Consultants" 
-                                    className="h-16 md:h-24 w-auto object-contain filter grayscale brightness-150 group-hover:grayscale-0 group-hover:brightness-100 transition-all"
-                                />
-                            </div>
+                {/* Sponsors Section */}
+<div className="space-y-12">
+    <h3 className="text-gray-500 uppercase tracking-[0.4em] text-sm font-bold">
+        Official Event Sponsors
+    </h3>
+    
+    <div className="flex flex-wrap justify-center items-center gap-10 md:gap-20">
+        {/* Neon Consultants */}
+        <div className="group transition-all duration-300 hover:scale-110">
+            <img 
+                src="/assets/Neon-Consultants-Pvt-Ltd-Logo.png" 
+                alt="Neon Consultants" 
+                className="h-16 md:h-24 w-auto object-contain filter grayscale brightness-150 group-hover:grayscale-0 group-hover:brightness-100 transition-all"
+            />
+        </div>
 
-                            {/* Raasta */}
-                            <div className="group transition-all duration-300 hover:scale-110">
-                                <img 
-                                    src="/assets/raasta.jpeg" 
-                                    alt="Raasta" 
-                                    className="h-20 md:h-28 w-auto object-contain rounded-xl shadow-lg shadow-purple-500/20 group-hover:shadow-purple-500/40 transition-all"
-                                />
-                            </div>
+        {/* Raasta */}
+        <div className="group transition-all duration-300 hover:scale-110">
+            <img 
+                src="/assets/raasta.jpeg" 
+                alt="Raasta" 
+                className="h-20 md:h-28 w-auto object-contain rounded-xl shadow-lg shadow-purple-500/20 group-hover:shadow-purple-500/40 transition-all"
+            />
+        </div>
 
-                            {/* RED HR */}
-                            <div className="group transition-all duration-300 hover:scale-110">
-                                <img 
-                                    src="/assets/RED-HR-LOGO.png" 
-                                    alt="HR Overseas Education Specialist" 
-                                    className="h-14 md:h-20 w-auto object-contain group-hover:brightness-125 transition-all"
-                                />
-                            </div>
-                        </div>
-                    </div>
+        {/* RED HR */}
+        <div className="group transition-all duration-300 hover:scale-110">
+            <img 
+                src="/assets/RED-HR-LOGO.png" 
+                alt="HR Overseas Education Specialist" 
+                className="h-14 md:h-20 w-auto object-contain group-hover:brightness-125 transition-all"
+            />
+        </div>
+    </div>
+</div>
                 </div>
             </section>
         </div>
     );
 }
+
