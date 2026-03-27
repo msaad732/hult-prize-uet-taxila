@@ -1,6 +1,7 @@
-# Hult Prize UET Taxila - Static Website
+# Hult Prize UET Taxila 
 
 A high-impact, mobile-responsive informational website for the "Hult Prize at UET Taxila" campus event. This project is built with React and Tailwind CSS, focusing on performance, aesthetics, and ease of deployment.
+Live Website Link: https://www.hultprizeuett.app/
 
 ![Theme: Unlimited 2026](https://img.shields.io/badge/Theme-Unlimited%202026-E6007F)
 ![React](https://img.shields.io/badge/React-18.2-61DAFB)
